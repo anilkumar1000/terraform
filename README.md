@@ -1,2 +1,2 @@
 # terraform
-this a terraform for the AWS EKS
+this a terraform for the AWS Ec2
